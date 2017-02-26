@@ -1,0 +1,32 @@
+@import "custom-variables";
+@import "bootstrap";
+@import "fonts";
+@import "reset";
+@import "default-clases";
+@import "layout";
+
+body{ 
+	padding-bottom: 70px;
+}
+header{
+	font-size: 14px;
+}
+.check-form{
+	margin-top: 120px;
+	color: grey;
+	font-size: 16px;
+	form{
+		border: 1px solid grey;
+		padding: 20px;				
+	}
+	
+}
+
+
+
+
+
+
+
+
+
